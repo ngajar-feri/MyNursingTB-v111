@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">My Nursing TB</string>
+    <string name="app_deskripsi">This android-based application which is intended for
+        the general public contains health information related to Tuberculosis (TB/TBC)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- Dashboard -->
+    <string name="txt_dashboard_usr">Username</string>
+    <string name="txt_dashboard_email">Email</string>
+    <string name="txt_dashboard_phone">Phone xxxxxxxx</string>
+    <string name="txt_dashboard_penkes">Penkes</string>
+    <string name="txt_dashboard_faskes">Faskes</string>
+    <string name="txt_dashboard_reminder">Pill Reminder</string>
+    <string name="txt_copyright">Copyright &#169; %1$s. %2$s</string>
+    <string name="loading">Loading&#8230;</string>
+
+    <string name="title_medicine_name">Medicine Name</string>
+    <string name="hint_enter_med_name">Enter Medicine</string>
+    <string name="medicine_days">Medicine Days</string>
+    <string name="title_treatment_deadline">Treatment deadline</string>
+    <string name="title_continuous_use">Continuous use</string>
+    <string name="title_reminder">Reminder</string>
+    <string name="new_medicine">NEW MEDICINE</string>
+    <string name="every_day">Every day</string>
+    <string name="no_medicine_added">No Medicine Added</string>
+    <string name="loading_tasks_error">Error while loading medicineAlarms</string>
+    <string name="successfully_saved_me_message">Medicine Added Successfully</string>
+    <string name="successfully_deleted_message">Medicine deleted Successfully</string>
+    <string name="reminder_message">It\'s Time to take your medicine</string>
+    <string name="ignored">IGNORED</string>
+    <string name="taken">TAKEN</string>
+    <string name="all">ALL</string>
+    <string name="menu_filter">Filter</string>
+    <string name="all_label">All Medicines</string>
+    <string name="ignore_label">Medicines Ignored</string>
+    <string name="taken_label">Medicine Taken</string>
+    <string name="no_history">No History Found</string>
+    <string name="no_taken_med_history">You have not taken any medicine</string>
+    <string name="no_ignored_history">Well Done</string>
+    <string name="menu_stats">Monthly Report</string>
+
+    <string name="copy_right" translatable="false">Copyrights © %1$d</string>
+    <string name="copy_right_name" translatable="false">Feri Febria Laksana, M. Kom.</string>
+    <string name="webalamat_homepage" translatable="false">https://mynursing.sivnot.com/web/</string>
+    <string name="webalamat_privacy_policy" translatable="false">https://mynursing.sivnot.com/web/?page_id=2153</string>
+    <string name="term_condition" translatable="false">Terms &amp; Conditions</string>
+
+    <!-- Login Titles -->
+    <string name="login_title">Login</string>
+    <string name="signup_title">Sign up</string>
+    <string name="login_label">Login</string>
+    <string name="signup_label">Signup</string>
+    <string name="login_btn_label">Login</string>
+    <string name="signup_btn_label">Signup</string>
+    <string name="login_welcome_txt">Hello there Welcome Back</string>
+    <string name="signup_welcome_txt">Hello there Welcome to you</string>
+    <string name="email_address_hint">Email Address</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="password_hint">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="no_account">Don’t have an account?</string>
+    <string name="have_account">Have an account?</string>
+    <string name="divider_or">OR</string>
+    <string name="login_google_btn_label">"{faw-google-f}    Login with Google"</string>
+    <string name="signup_google_btn_label">"{faw-google-f}    Signup with Google"</string>
+    <string name="login_fb_btn_label">"{faw-facebook-f}    Login with Facebook"</string>
+    <string name="signup_fb_btn_label">"{faw-facebook-f}    Signup with Facebook"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Faskes -->
+    <string name="tittle_pilih_faskes">Choose Faskes:</string>
+    <string name="btnOkPilFaskes" translatable="false">OK</string>
+    <string-array name="lokasi_faskes">
+        <item>Kota Pekalongan</item>
+        <item>Kabupaten Pekalongan</item>
+    </string-array>
+
+    <!--Create Alarm-->
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="not_located_day">Could not locate day</string>
+    <string name="text_one_time_alarm">One Time Alarm %s scheduled for %s at %02d:%02d</string>
+    <string name="text_recurring_alarm">Recurring Alarm %s scheduled for %s at %02d:%02d</string>
+    <string name="text_cancelled_alarm">Alarm cancelled for %02d:%02d with id %s</string>
+    <string name="text_once_off">Once Off</string>
+    <string name="text_default_clock">00:00</string>
+    <string name="text_alarm">Alarm</string>
+</resources>
